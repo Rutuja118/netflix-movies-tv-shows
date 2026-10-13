@@ -43,4 +43,4 @@ The project includes:
 4. Run the notebook cells.
 
 ## Author
-Data Analyst Portfolio Project
+- Rutuja Handargule 
