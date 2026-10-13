@@ -1,4 +1,4 @@
-# Netflix Data Analysis Using Python
+# Netflix Movies & TV Shows Data Analysis Using Python
 
 ## Project Overview
 This project explores the Netflix dataset to understand the distribution and characteristics of movies and TV shows available on Netflix.
